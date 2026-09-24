@@ -22,11 +22,6 @@ The characterization was divided into three main experimental phases:
 * **Total Harmonic Distortion**: THD values were monitored to define the "cleanliness" of the signal, revealing the inherent limitations of the low-cost circuitry compared to professional equipment.
 * **Conclusions**: While the XR-2206 kit has clear limitations in high-precision scenarios, it proves to be a cost-effective and valid solution for basic electronics education and general hobbyist applications.
 
-## 📁 Repository Structure
-* `docs/`: Contains the final presentation slides (`Talk.pdf`).
-* `data/`: Raw experimental data and measurement tables.
-* `plots/`: Visual representations of linearity and spectral analysis.
-
 ---
 **Candidate**: Salvatore Zuccaro  
 **Supervisor**: Prof. Valentina Cosentino  
